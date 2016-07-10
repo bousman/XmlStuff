@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XmlDiff>
+	<Delta>1.0e-8</Delta>
+	<Case>false</Case>
+   <Delim>,\n{|</Delim>
+	<Ignore>
+	   <FilterText name="test" type="double"/>
+	   <VarTag name="MyVar"/>
+	</Ignore>
+</XmlDiff>
