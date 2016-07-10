@@ -33,9 +33,6 @@
     <ClCompile Include="..\src\XmlFilter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Misc\src\MU_StringUtil.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\MyGetOpt.h">
@@ -51,9 +48,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\include\XmlFilter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Misc\include\MU_StringUtil.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
